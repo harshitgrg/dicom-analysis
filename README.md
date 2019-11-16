@@ -1,4 +1,4 @@
-# data-analysis-diwali 
+# dcm-analysis
 #The complete dataset can be downloaded from here: https://wiki.cancerimagingarchive.net/display/Public/APOLLO-1-VA#4fbe448b42cc4ace8b278fccf2813f19
 
 # I have preprocessed scans of files in folder named as AP6H6G(as given by you) in this.
